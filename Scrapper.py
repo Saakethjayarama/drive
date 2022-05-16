@@ -1,7 +1,7 @@
 from multiprocessing.sharedctypes import Value
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from bs4 import BeautifulSoup
+import re
 
 driver = webdriver.Chrome()
 driver.get('https://web.sensibull.com/option-chain?expiry=2022-05-19&tradingsymbol=BANKNIFTY')
@@ -21,7 +21,9 @@ for i in range(rows):
     ltp_ce_price = ltp_ce.split('&nbsp;')[0]
 
     ltp_ce_change_sign = driver.find_element(by=By.XPATH, value='//*[@id="oc-table-body"]/div[5]/div/div[3]/div/div/div/div/span[1]').text
-    ltp_ce_change_value =  driver.find_element(by=By.XPATH, value=f'//*[@id="oc-table-body"]/div[{i+1}]/div/div[3]/div/div/div[1]/div').get_attribute('innerHTML').split('<span>.?<\/span>')
+    string =  driver.find_element(by=By.XPATH, value=f'//*[@id="oc-table-body"]/div[{i+1}]/div/div[3]/div/div/div[1]/div').get_attribute('innerHTML')
+    pattern = r'<span>.?<\/span>'
+    ltp_ce_change_value = re.split(pattern, string)[1]
 
     strike = driver.find_element(by=By.XPATH, value=f'//*[@id="oc-table-body"]/div[{i+1}]/div/div[4]').text
     iv = driver.find_element(by=By.XPATH, value=f'//*[@id="oc-table-body"]/div[{i+1}]/div/div[5]').text
@@ -29,9 +31,6 @@ for i in range(rows):
     oi_change_pe = driver.find_element(by=By.XPATH, value=f'//*[@id="oc-table-body"]/div[{i+1}]/div/div[8]').get_attribute('innerHTML')
     oi_lakh_pe = driver.find_element(by=By.XPATH, value=f'//*[@id="oc-table-body"]/div[{i+1}]/div/div[7]').text
 
-    # //*[@id="oc-table-body"]/div[6]/div/div[3]/div/div/div[1]/text()[1]
-    # //*[@id="oc-table-body"]/div[8]/div/div[3]/div/div/div[1]/text()[1]
-    
     print({
         'strike':strike,
         'iv': iv,
