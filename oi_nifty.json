@@ -1,0 +1,612 @@
+[
+  {
+    "oi_change_ce": "-",
+    "oi_lakh_ce": "-",
+    "ltp_ce": { "price": "-", "change": "0" },
+    "strike": "14800",
+    "iv": "53.0",
+    "ltp_pe": { "price": "1.55", "change": "-47" },
+    "oi_lakh_pe": "13.8",
+    "oi_change_pe": "-4.1%"
+  },
+  {
+    "oi_change_ce": "-",
+    "oi_lakh_ce": "0.0",
+    "ltp_ce": { "price": "1018.85", "change": "+4" },
+    "strike": "14850",
+    "iv": "53.0",
+    "ltp_pe": { "price": "2.00", "change": "-41" },
+    "oi_lakh_pe": "1.6",
+    "oi_change_pe": "-56.3%"
+  },
+  {
+    "oi_change_ce": "-",
+    "oi_lakh_ce": "0.0",
+    "ltp_ce": { "price": "947.65", "change": "0" },
+    "strike": "14900",
+    "iv": "51.5",
+    "ltp_pe": { "price": "2.05", "change": "-54" },
+    "oi_lakh_pe": "11.6",
+    "oi_change_pe": "-37.0%"
+  },
+  {
+    "oi_change_ce": "-",
+    "oi_lakh_ce": "0.0",
+    "ltp_ce": { "price": "1001.30", "change": "-1" },
+    "strike": "14950",
+    "iv": "50.1",
+    "ltp_pe": { "price": "2.15", "change": "-59" },
+    "oi_lakh_pe": "2.9",
+    "oi_change_pe": "-13.1%"
+  },
+  {
+    "oi_change_ce": "-7.5%",
+    "oi_lakh_ce": "0.3",
+    "ltp_ce": { "price": "1268.00", "change": "+52" },
+    "strike": "15000",
+    "iv": "49.3",
+    "ltp_pe": { "price": "2.50", "change": "-62" },
+    "oi_lakh_pe": "77.9",
+    "oi_change_pe": "89.0%"
+  },
+  {
+    "oi_change_ce": "-",
+    "oi_lakh_ce": "0.0",
+    "ltp_ce": { "price": "1170.00", "change": "+49" },
+    "strike": "15050",
+    "iv": "46.8",
+    "ltp_pe": { "price": "2.20", "change": "-73" },
+    "oi_lakh_pe": "4.0",
+    "oi_change_pe": "15.8%"
+  },
+  {
+    "oi_change_ce": "-5.6%",
+    "oi_lakh_ce": "0.0",
+    "ltp_ce": { "price": "1168.05", "change": "+59" },
+    "strike": "15100",
+    "iv": "46.5",
+    "ltp_pe": { "price": "2.80", "change": "-71" },
+    "oi_lakh_pe": "15.9",
+    "oi_change_pe": "-1.6%"
+  },
+  {
+    "oi_change_ce": "-",
+    "oi_lakh_ce": "0.0",
+    "ltp_ce": { "price": "1109.25", "change": "+60" },
+    "strike": "15150",
+    "iv": "44.2",
+    "ltp_pe": { "price": "2.55", "change": "-79" },
+    "oi_lakh_pe": "3.8",
+    "oi_change_pe": "5.2%"
+  },
+  {
+    "oi_change_ce": "-32.7%",
+    "oi_lakh_ce": "0.1",
+    "ltp_ce": { "price": "1069.35", "change": "+66" },
+    "strike": "15200",
+    "iv": "44.0",
+    "ltp_pe": { "price": "3.30", "change": "-78" },
+    "oi_lakh_pe": "27.3",
+    "oi_change_pe": "40.9%"
+  },
+  {
+    "oi_change_ce": "-8.1%",
+    "oi_lakh_ce": "0.0",
+    "ltp_ce": { "price": "951.20", "change": "+58" },
+    "strike": "15250",
+    "iv": "43.1",
+    "ltp_pe": { "price": "3.80", "change": "-80" },
+    "oi_lakh_pe": "5.5",
+    "oi_change_pe": "-12.3%"
+  },
+  {
+    "oi_change_ce": "0.4%",
+    "oi_lakh_ce": "0.3",
+    "ltp_ce": { "price": "977.00", "change": "+74" },
+    "strike": "15300",
+    "iv": "41.8",
+    "ltp_pe": { "price": "4.15", "change": "-82" },
+    "oi_lakh_pe": "36.5",
+    "oi_change_pe": "91.1%"
+  },
+  {
+    "oi_change_ce": "-11.5%",
+    "oi_lakh_ce": "0.0",
+    "ltp_ce": { "price": "880.65", "change": "+69" },
+    "strike": "15350",
+    "iv": "40.2",
+    "ltp_pe": { "price": "4.30", "change": "-84" },
+    "oi_lakh_pe": "5.6",
+    "oi_change_pe": "42.9%"
+  },
+  {
+    "oi_change_ce": "-0.9%",
+    "oi_lakh_ce": "0.3",
+    "ltp_ce": { "price": "881.60", "change": "+87" },
+    "strike": "15400",
+    "iv": "39.2",
+    "ltp_pe": { "price": "5.00", "change": "-85" },
+    "oi_lakh_pe": "22.5",
+    "oi_change_pe": "27.9%"
+  },
+  {
+    "oi_change_ce": "5.4%",
+    "oi_lakh_ce": "0.1",
+    "ltp_ce": { "price": "830.00", "change": "+93" },
+    "strike": "15450",
+    "iv": "36.7",
+    "ltp_pe": { "price": "4.55", "change": "-89" },
+    "oi_lakh_pe": "5.0",
+    "oi_change_pe": "52.9%"
+  },
+  {
+    "oi_change_ce": "-45.0%",
+    "oi_lakh_ce": "0.9",
+    "ltp_ce": { "price": "782.05", "change": "+104" },
+    "strike": "15500",
+    "iv": "36.5",
+    "ltp_pe": { "price": "6.00", "change": "-88" },
+    "oi_lakh_pe": "55.6",
+    "oi_change_pe": "91.8%"
+  },
+  {
+    "oi_change_ce": "-17.0%",
+    "oi_lakh_ce": "0.1",
+    "ltp_ce": { "price": "722.75", "change": "+108" },
+    "strike": "15550",
+    "iv": "36.0",
+    "ltp_pe": { "price": "7.50", "change": "-87" },
+    "oi_lakh_pe": "7.1",
+    "oi_change_pe": "97.2%"
+  },
+  {
+    "oi_change_ce": "-52.0%",
+    "oi_lakh_ce": "0.4",
+    "ltp_ce": { "price": "684.80", "change": "+123" },
+    "strike": "15600",
+    "iv": "34.4",
+    "ltp_pe": { "price": "8.00", "change": "-89" },
+    "oi_lakh_pe": "37.5",
+    "oi_change_pe": "128.7%"
+  },
+  {
+    "oi_change_ce": "-27.5%",
+    "oi_lakh_ce": "0.3",
+    "ltp_ce": { "price": "636.60", "change": "+138" },
+    "strike": "15650",
+    "iv": "33.7",
+    "ltp_pe": { "price": "9.85", "change": "-88" },
+    "oi_lakh_pe": "13.1",
+    "oi_change_pe": "275.3%"
+  },
+  {
+    "oi_change_ce": "-60.6%",
+    "oi_lakh_ce": "1.2",
+    "ltp_ce": { "price": "586.05", "change": "+149" },
+    "strike": "15700",
+    "iv": "32.1",
+    "ltp_pe": { "price": "10.70", "change": "-89" },
+    "oi_lakh_pe": "34.4",
+    "oi_change_pe": "74.4%"
+  },
+  {
+    "oi_change_ce": "-33.6%",
+    "oi_lakh_ce": "0.7",
+    "ltp_ce": { "price": "540.85", "change": "+168" },
+    "strike": "15750",
+    "iv": "31.7",
+    "ltp_pe": { "price": "13.80", "change": "-88" },
+    "oi_lakh_pe": "12.6",
+    "oi_change_pe": "145.1%"
+  },
+  {
+    "oi_change_ce": "-73.1%",
+    "oi_lakh_ce": "5.0",
+    "ltp_ce": { "price": "491.00", "change": "+185" },
+    "strike": "15800",
+    "iv": "30.8",
+    "ltp_pe": { "price": "16.60", "change": "-88" },
+    "oi_lakh_pe": "53.2",
+    "oi_change_pe": "71.9%"
+  },
+  {
+    "oi_change_ce": "-47.6%",
+    "oi_lakh_ce": "4.4",
+    "ltp_ce": { "price": "446.35", "change": "+208" },
+    "strike": "15850",
+    "iv": "29.9",
+    "ltp_pe": { "price": "20.00", "change": "-87" },
+    "oi_lakh_pe": "19.4",
+    "oi_change_pe": "210.4%"
+  },
+  {
+    "oi_change_ce": "-62.6%",
+    "oi_lakh_ce": "8.5",
+    "ltp_ce": { "price": "396.90", "change": "+232" },
+    "strike": "15900",
+    "iv": "29.3",
+    "ltp_pe": { "price": "25.00", "change": "-86" },
+    "oi_lakh_pe": "38.7",
+    "oi_change_pe": "284.9%"
+  },
+  {
+    "oi_change_ce": "-69.2%",
+    "oi_lakh_ce": "2.8",
+    "ltp_ce": { "price": "350.25", "change": "+259" },
+    "strike": "15950",
+    "iv": "28.5",
+    "ltp_pe": { "price": "30.60", "change": "-85" },
+    "oi_lakh_pe": "11.9",
+    "oi_change_pe": "435.7%"
+  },
+  {
+    "oi_change_ce": "-57.0%",
+    "oi_lakh_ce": "21.1",
+    "ltp_ce": { "price": "308.45", "change": "+294" },
+    "strike": "16000",
+    "iv": "27.3",
+    "ltp_pe": { "price": "36.00", "change": "-85" },
+    "oi_lakh_pe": "60.2",
+    "oi_change_pe": "329.9%"
+  },
+  {
+    "oi_change_ce": "-76.4%",
+    "oi_lakh_ce": "2.4",
+    "ltp_ce": { "price": "266.85", "change": "+335" },
+    "strike": "16050",
+    "iv": "26.7",
+    "ltp_pe": { "price": "45.00", "change": "-84" },
+    "oi_lakh_pe": "11.3",
+    "oi_change_pe": "1151.9%"
+  },
+  {
+    "oi_change_ce": "-68.1%",
+    "oi_lakh_ce": "16.2",
+    "ltp_ce": { "price": "232.10", "change": "+389" },
+    "strike": "16100",
+    "iv": "25.8",
+    "ltp_pe": { "price": "54.65", "change": "-82" },
+    "oi_lakh_pe": "35.5",
+    "oi_change_pe": "1371.5%"
+  },
+  {
+    "oi_change_ce": "-47.8%",
+    "oi_lakh_ce": "5.6",
+    "ltp_ce": { "price": "191.55", "change": "+426" },
+    "strike": "16150",
+    "iv": "25.6",
+    "ltp_pe": { "price": "69.60", "change": "-80" },
+    "oi_lakh_pe": "8.2",
+    "oi_change_pe": "1961.2%"
+  },
+  {
+    "oi_change_ce": "-5.4%",
+    "oi_lakh_ce": "49.8",
+    "ltp_ce": { "price": "159.80", "change": "+479" },
+    "strike": "16200",
+    "iv": "24.5",
+    "ltp_pe": { "price": "83.00", "change": "-79" },
+    "oi_lakh_pe": "28.6",
+    "oi_change_pe": "1136.1%"
+  },
+  {
+    "oi_change_ce": "-20.9%",
+    "oi_lakh_ce": "8.6",
+    "ltp_ce": { "price": "127.00", "change": "+515" },
+    "strike": "16250",
+    "iv": "24.3",
+    "ltp_pe": { "price": "103.70", "change": "-76" },
+    "oi_lakh_pe": "6.0",
+    "oi_change_pe": "2670.4%"
+  },
+  {
+    "oi_change_ce": "12.4%",
+    "oi_lakh_ce": "40.9",
+    "ltp_ce": { "price": "99.05", "change": "+547" },
+    "strike": "16300",
+    "iv": "22.9",
+    "ltp_pe": { "price": "125.45", "change": "-74" },
+    "oi_lakh_pe": "10.0",
+    "oi_change_pe": "539.3%"
+  },
+  {
+    "oi_change_ce": "-21.8%",
+    "oi_lakh_ce": "9.1",
+    "ltp_ce": { "price": "75.80", "change": "+574" },
+    "strike": "16350",
+    "iv": "22.5",
+    "ltp_pe": { "price": "145.95", "change": "-72" },
+    "oi_lakh_pe": "1.7",
+    "oi_change_pe": "1591.7%"
+  },
+  {
+    "oi_change_ce": "-9.1%",
+    "oi_lakh_ce": "34.2",
+    "ltp_ce": { "price": "55.70", "change": "+563" },
+    "strike": "16400",
+    "iv": "22.0",
+    "ltp_pe": { "price": "179.45", "change": "-68" },
+    "oi_lakh_pe": "2.8",
+    "oi_change_pe": "197.3%"
+  },
+  {
+    "oi_change_ce": "-18.2%",
+    "oi_lakh_ce": "12.7",
+    "ltp_ce": { "price": "39.95", "change": "+529" },
+    "strike": "16450",
+    "iv": "21.6",
+    "ltp_pe": { "price": "211.60", "change": "-66" },
+    "oi_lakh_pe": "0.2",
+    "oi_change_pe": "136.0%"
+  },
+  {
+    "oi_change_ce": "1.8%",
+    "oi_lakh_ce": "57.7",
+    "ltp_ce": { "price": "27.00", "change": "+440" },
+    "strike": "16500",
+    "iv": "21.1",
+    "ltp_pe": { "price": "252.80", "change": "-62" },
+    "oi_lakh_pe": "2.4",
+    "oi_change_pe": "50.4%"
+  },
+  {
+    "oi_change_ce": "49.4%",
+    "oi_lakh_ce": "13.4",
+    "ltp_ce": { "price": "18.85", "change": "+371" },
+    "strike": "16550",
+    "iv": "21.1",
+    "ltp_pe": { "price": "290.00", "change": "-59" },
+    "oi_lakh_pe": "0.1",
+    "oi_change_pe": "64.4%"
+  },
+  {
+    "oi_change_ce": "45.4%",
+    "oi_lakh_ce": "47.4",
+    "ltp_ce": { "price": "11.60", "change": "+246" },
+    "strike": "16600",
+    "iv": "20.6",
+    "ltp_pe": { "price": "335.00", "change": "-56" },
+    "oi_lakh_pe": "0.8",
+    "oi_change_pe": "35.3%"
+  },
+  {
+    "oi_change_ce": "-44.1%",
+    "oi_lakh_ce": "23.7",
+    "ltp_ce": { "price": "7.00", "change": "+133" },
+    "strike": "16650",
+    "iv": "20.2",
+    "ltp_pe": { "price": "387.00", "change": "-52" },
+    "oi_lakh_pe": "0.1",
+    "oi_change_pe": "-"
+  },
+  {
+    "oi_change_ce": "15.4%",
+    "oi_lakh_ce": "47.3",
+    "ltp_ce": { "price": "4.80", "change": "+92" },
+    "strike": "16700",
+    "iv": "20.6",
+    "ltp_pe": { "price": "428.00", "change": "-51" },
+    "oi_lakh_pe": "0.5",
+    "oi_change_pe": "18.9%"
+  },
+  {
+    "oi_change_ce": "36.2%",
+    "oi_lakh_ce": "16.1",
+    "ltp_ce": { "price": "3.30", "change": "+43" },
+    "strike": "16750",
+    "iv": "21.0",
+    "ltp_pe": { "price": "483.20", "change": "-46" },
+    "oi_lakh_pe": "0.1",
+    "oi_change_pe": "3.9%"
+  },
+  {
+    "oi_change_ce": "41.1%",
+    "oi_lakh_ce": "36.1",
+    "ltp_ce": { "price": "2.45", "change": "+23" },
+    "strike": "16800",
+    "iv": "21.7",
+    "ltp_pe": { "price": "527.05", "change": "-45" },
+    "oi_lakh_pe": "0.6",
+    "oi_change_pe": "0.1%"
+  },
+  {
+    "oi_change_ce": "0.4%",
+    "oi_lakh_ce": "5.3",
+    "ltp_ce": { "price": "2.00", "change": "+5" },
+    "strike": "16850",
+    "iv": "22.7",
+    "ltp_pe": { "price": "577.95", "change": "-42" },
+    "oi_lakh_pe": "0.0",
+    "oi_change_pe": "-16.7%"
+  },
+  {
+    "oi_change_ce": "0.9%",
+    "oi_lakh_ce": "16.0",
+    "ltp_ce": { "price": "1.75", "change": "0" },
+    "strike": "16900",
+    "iv": "23.8",
+    "ltp_pe": { "price": "631.00", "change": "-40" },
+    "oi_lakh_pe": "0.4",
+    "oi_change_pe": "-4.5%"
+  },
+  {
+    "oi_change_ce": "29.3%",
+    "oi_lakh_ce": "4.1",
+    "ltp_ce": { "price": "1.70", "change": "-3" },
+    "strike": "16950",
+    "iv": "25.3",
+    "ltp_pe": { "price": "680.05", "change": "-38" },
+    "oi_lakh_pe": "0.0",
+    "oi_change_pe": "-7.1%"
+  },
+  {
+    "oi_change_ce": "3.4%",
+    "oi_lakh_ce": "63.8",
+    "ltp_ce": { "price": "1.35", "change": "-18" },
+    "strike": "17000",
+    "iv": "26.1",
+    "ltp_pe": { "price": "725.30", "change": "-38" },
+    "oi_lakh_pe": "0.7",
+    "oi_change_pe": "-10.7%"
+  },
+  {
+    "oi_change_ce": "24.1%",
+    "oi_lakh_ce": "4.7",
+    "ltp_ce": { "price": "1.20", "change": "-27" },
+    "strike": "17050",
+    "iv": "27.2",
+    "ltp_pe": { "price": "834.60", "change": "-32" },
+    "oi_lakh_pe": "0.0",
+    "oi_change_pe": "-"
+  },
+  {
+    "oi_change_ce": "-21.6%",
+    "oi_lakh_ce": "6.7",
+    "ltp_ce": { "price": "1.10", "change": "-27" },
+    "strike": "17100",
+    "iv": "28.3",
+    "ltp_pe": { "price": "826.00", "change": "-34" },
+    "oi_lakh_pe": "0.1",
+    "oi_change_pe": "-16.7%"
+  },
+  {
+    "oi_change_ce": "2.9%",
+    "oi_lakh_ce": "1.7",
+    "ltp_ce": { "price": "1.05", "change": "-34" },
+    "strike": "17150",
+    "iv": "29.6",
+    "ltp_pe": { "price": "880.00", "change": "-31" },
+    "oi_lakh_pe": "0.0",
+    "oi_change_pe": "-35.7%"
+  },
+  {
+    "oi_change_ce": "17.2%",
+    "oi_lakh_ce": "8.3",
+    "ltp_ce": { "price": "0.90", "change": "-38" },
+    "strike": "17200",
+    "iv": "30.5",
+    "ltp_pe": { "price": "930.00", "change": "-31" },
+    "oi_lakh_pe": "0.2",
+    "oi_change_pe": "-14.1%"
+  },
+  {
+    "oi_change_ce": "-5.7%",
+    "oi_lakh_ce": "1.5",
+    "ltp_ce": { "price": "0.85", "change": "-43" },
+    "strike": "17250",
+    "iv": "31.7",
+    "ltp_pe": { "price": "967.65", "change": "-29" },
+    "oi_lakh_pe": "0.0",
+    "oi_change_pe": "-6.7%"
+  },
+  {
+    "oi_change_ce": "-19.7%",
+    "oi_lakh_ce": "7.9",
+    "ltp_ce": { "price": "0.95", "change": "-32" },
+    "strike": "17300",
+    "iv": "33.5",
+    "ltp_pe": { "price": "1026.20", "change": "-30" },
+    "oi_lakh_pe": "0.4",
+    "oi_change_pe": "-11.0%"
+  },
+  {
+    "oi_change_ce": "-20.6%",
+    "oi_lakh_ce": "0.6",
+    "ltp_ce": { "price": "0.85", "change": "-39" },
+    "strike": "17350",
+    "iv": "34.5",
+    "ltp_pe": { "price": "1232.30", "change": "-17" },
+    "oi_lakh_pe": "0.0",
+    "oi_change_pe": "-"
+  },
+  {
+    "oi_change_ce": "-7.2%",
+    "oi_lakh_ce": "2.0",
+    "ltp_ce": { "price": "0.75", "change": "-42" },
+    "strike": "17400",
+    "iv": "35.3",
+    "ltp_pe": { "price": "1323.35", "change": "-15" },
+    "oi_lakh_pe": "0.1",
+    "oi_change_pe": "-1.0%"
+  },
+  {
+    "oi_change_ce": "29.9%",
+    "oi_lakh_ce": "0.4",
+    "ltp_ce": { "price": "0.80", "change": "-38" },
+    "strike": "17450",
+    "iv": "36.9",
+    "ltp_pe": { "price": "1599.05", "change": "0" },
+    "oi_lakh_pe": "0.0",
+    "oi_change_pe": "-"
+  },
+  {
+    "oi_change_ce": "-8.8%",
+    "oi_lakh_ce": "21.5",
+    "ltp_ce": { "price": "0.70", "change": "-44" },
+    "strike": "17500",
+    "iv": "37.7",
+    "ltp_pe": { "price": "1232.40", "change": "-26" },
+    "oi_lakh_pe": "0.3",
+    "oi_change_pe": "-19.5%"
+  },
+  {
+    "oi_change_ce": "27.0%",
+    "oi_lakh_ce": "0.4",
+    "ltp_ce": { "price": "0.70", "change": "-44" },
+    "strike": "17550",
+    "iv": "39.0",
+    "ltp_pe": { "price": "1350.00", "change": "-19" },
+    "oi_lakh_pe": "0.0",
+    "oi_change_pe": "-"
+  },
+  {
+    "oi_change_ce": "-23.5%",
+    "oi_lakh_ce": "5.2",
+    "ltp_ce": { "price": "0.65", "change": "-46" },
+    "strike": "17600",
+    "iv": "40.0",
+    "ltp_pe": { "price": "1519.00", "change": "-16" },
+    "oi_lakh_pe": "0.0",
+    "oi_change_pe": "-1.9%"
+  },
+  {
+    "oi_change_ce": "-4.1%",
+    "oi_lakh_ce": "0.2",
+    "ltp_ce": { "price": "0.70", "change": "-39" },
+    "strike": "17650",
+    "iv": "41.6",
+    "ltp_pe": { "price": "1634.85", "change": "0" },
+    "oi_lakh_pe": "0.0",
+    "oi_change_pe": "-"
+  },
+  {
+    "oi_change_ce": "-19.3%",
+    "oi_lakh_ce": "1.5",
+    "ltp_ce": { "price": "0.60", "change": "-50" },
+    "strike": "17700",
+    "iv": "42.2",
+    "ltp_pe": { "price": "1495.00", "change": "-22" },
+    "oi_lakh_pe": "0.0",
+    "oi_change_pe": "-2.8%"
+  },
+  {
+    "oi_change_ce": "-0.4%",
+    "oi_lakh_ce": "0.6",
+    "ltp_ce": { "price": "0.55", "change": "-52" },
+    "strike": "17750",
+    "iv": "43.1",
+    "ltp_pe": { "price": "1837.65", "change": "0" },
+    "oi_lakh_pe": "0.0",
+    "oi_change_pe": "-"
+  },
+  {
+    "oi_change_ce": "-6.5%",
+    "oi_lakh_ce": "1.5",
+    "ltp_ce": { "price": "0.65", "change": "-43" },
+    "strike": "17800",
+    "iv": "45.1",
+    "ltp_pe": { "price": "1582.00", "change": "-17" },
+    "oi_lakh_pe": "0.1",
+    "oi_change_pe": "0.4%"
+  }
+]
